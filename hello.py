@@ -6,4 +6,4 @@ def foo():
     print("foo")
 
 def bar():
-    pass
+    print("bar")
