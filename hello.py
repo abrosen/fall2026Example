@@ -3,7 +3,7 @@ def hello():
 
 
 def foo():
-    pass
+    print("foo")
 
 def bar():
     pass
